@@ -1,0 +1,6 @@
+---
+# tasks file for cb-bash-arole
+- name: Create bash aliases directory
+  file:
+    dest: "{{ lookup('env', 'HOME') }}/.bash_aliases.d"
+    state: directory

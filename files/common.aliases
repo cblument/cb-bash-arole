@@ -1,0 +1,2 @@
+alias nowstamp="date -u +%Y%m%d%H%M%S"
+alias nowdate="date -u +%Y%m%d"
