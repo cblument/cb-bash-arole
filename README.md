@@ -3,6 +3,16 @@ Role Name
 
 A brief description of the role goes here.
 
+
+Notes
+-----
+
+When you need the aliases but cannot run the role:
+
+```
+source <(curl https://raw.githubusercontent.com/cblument/cb-bash-arole/main/files/common.aliases)
+```
+
 Requirements
 ------------
 
